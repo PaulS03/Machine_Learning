@@ -26,3 +26,6 @@ nll_w1 = neg_nll(w_1, X, y_all)
 nll_w2 = neg_nll(w_2, X, y_all)
 
 print(nll_w1, nll_w2)
+
+#nll_w1 = 1.1265
+#nll_w2 = 1.2614
